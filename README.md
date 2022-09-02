@@ -8,11 +8,13 @@ git@github.com:Wonderful-Me/pytorch-lamb.gitcd pytorch-lamb
 pip install -e .
 ```
 
-## 
+## Run the Testing Code
 ``` shell
 python test_lamb.py
 tensorboard --logdir=runs
 ```
+
+## Samples Results
 ``` 
 At `--lr=.02`, the Adam optimizer is unable to train.
 
