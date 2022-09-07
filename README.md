@@ -4,7 +4,7 @@ Bonus: TensorboardX logging (example below).
 
 ## Installation
 ```
-git@github.com:Wonderful-Me/pytorch-lamb.gitcd pytorch-lamb
+git clone git@github.com:Wonderful-Me/pytorch-lamb.gitcd pytorch-lamb
 pip install -e .
 ```
 
